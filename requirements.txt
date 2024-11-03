@@ -1,0 +1,7 @@
+httpx[http2]
+flask
+ddddocr
+numpy
+Pillow
+onnxruntime
+cryptography
